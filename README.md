@@ -2,5 +2,6 @@
 - Adds a recipe for the trident
 - Makes the Wither skeleton head drop every time
 
-### Supports
-Minecraft 1.20.5 - 1.20.6
+### Supported Minecraft Versions
+- 1.20.5
+- 1.20.6
