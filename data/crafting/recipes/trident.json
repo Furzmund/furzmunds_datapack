@@ -3,7 +3,7 @@
     "pattern": [
         "PPP",
         " H ",
-        " | "
+        " S "
     ],
     "key": {
         "P": {
@@ -12,12 +12,12 @@
         "H": {
             "item": "minecraft:heart_of_the_sea"
         },
-        "|": {
+        "S": {
             "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:trident",
+        "id": "minecraft:trident",
         "count": 1
     }
 }
