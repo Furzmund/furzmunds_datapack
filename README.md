@@ -1,4 +1,4 @@
-# Furzmund's Datapack v2.2
+# Furzmund's Datapack v2.2.1
 - Adds a recipe for the trident
 - Makes the Wither skeleton head drop every time
 
