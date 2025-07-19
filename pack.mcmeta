@@ -3,8 +3,8 @@
 		"pack_format": 41,
 		"supported_formats": {
 			"min_inclusive": 41,
-			"max_inclusive": 41
+			"max_inclusive": 48
 		},
-		"description": "Furzmund's Datapack v2.2 for MC 1.20.5-6\nTrident Recipe, Wither Skeleton Head Drop"
+		"description": "Furzmund's Datapack v2.3 for MC 1.21-1.21.1\nTrident Recipe, 100% Wither Skeleton Head Drop"
 	}
 }
