@@ -1,7 +1,8 @@
 # Furzmund's Datapack v2.3.0
 Datapack for Minecraft Java Edition
-- Adds a recipe for the trident
-- Makes the Wither skeleton head drop every time
+- Add Trident recipe
+- Wither skeleton always drops head
+- Shulkers drop at least 2 shells
 
 ### Supported Minecraft Versions
 - MC 1.21.0
